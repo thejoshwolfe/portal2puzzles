@@ -1,7 +1,7 @@
 "portal2_puzzle"
 {
 	"AppID"		"644"
-	"Version"		"14"
+	"Version"		"13"
 	"FileID"		"0x00000000050993C3"
 	"Timestamp_Created"		"0x00000000500CE3EB"
 	"Timestamp_Modified"		"0x00000000500CE3FB"
@@ -816,34 +816,6 @@
 			"Facing"		"0 0 0"
 			"EndHandle"		"1"
 		}
-		"Item"
-		{
-			"Index"		"52"
-			"Type"		"ITEM_COOP_ENTRY_DOOR"
-			"Deletable"		"0"
-			"VoxelPos"		"0 0 0"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
-			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
-			"Enabled"		"0"
-		}
-		"Item"
-		{
-			"Index"		"53"
-			"Type"		"ITEM_COOP_EXIT_DOOR"
-			"Deletable"		"0"
-			"VoxelPos"		"0 0 0"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
-			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
-			"Enabled"		"0"
-		}
 	}
 	"Connections"
 	{
@@ -972,18 +944,6 @@
 			"Sender"		"13"
 			"Receiver"		"49"
 			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"0"
-			"Receiver"		"52"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"1"
-			"Receiver"		"53"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 	}
 }

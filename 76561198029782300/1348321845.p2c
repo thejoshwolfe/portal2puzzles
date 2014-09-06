@@ -4,20 +4,25 @@
 	"Version"		"14"
 	"FileID"		"0x00000000127657EF"
 	"Timestamp_Created"		"0x00000000505DC235"
-	"Timestamp_Modified"		"0x00000000540AD5D1"
-	"CompileTime"		"189.589005"
+	"Timestamp_Modified"		"0x00000000540B6FFC"
+	"CompileTime"		"55.900002"
 	"Coop"		"0"
-	"Title"		"LOLWUT: The Platformer: Episode 3: There's No Place Like Hitler"
-	"Description"		"unreasonably difficult platformer. remember to quick save often."
-	"PreviewDirty"		"1"
-	"ChamberSize"		"15 12 8"
+	"Title"		"LOLWUT: The Platformer: Episode 3: There's No Place Like Hitler (v2)"
+	"Description"		"unreasonably difficult platformer. remember to quick save often.
+
+change history:
+* v2: patched some permastucks. removed useless distractions"
+	"PreviewDirty"		"0"
+	"ChamberSize"		"15 14 8"
 	"Voxels"
 	{
 		"Solid"
 		{
 			"Z0"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1100000001100011"
 				"Y10"		"f1100000001100001"
 				"Y9"		"f1000000000000001"
@@ -33,7 +38,9 @@
 			}
 			"Z1"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111001110"
+				"Y12"		"f1111111111011110"
 				"Y11"		"f1100000000000001"
 				"Y10"		"f1100000000000001"
 				"Y9"		"f1000000000000001"
@@ -49,7 +56,9 @@
 			}
 			"Z2"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f0000000000000001"
 				"Y10"		"f1100000000000001"
 				"Y9"		"f1000000000000001"
@@ -65,7 +74,9 @@
 			}
 			"Z3"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1100000000000001"
 				"Y10"		"f1100000000000001"
 				"Y9"		"f1000000000000001"
@@ -81,11 +92,13 @@
 			}
 			"Z4"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1000000000000001"
 				"Y10"		"f1000000000000001"
 				"Y9"		"f1000000000000001"
-				"Y8"		"f1000000011110001"
+				"Y8"		"f1000000010010001"
 				"Y7"		"f1000000011110001"
 				"Y6"		"f1000000011110001"
 				"Y5"		"f1000000000000001"
@@ -97,7 +110,9 @@
 			}
 			"Z5"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
 				"Y9"		"f1111111111111111"
@@ -113,7 +128,9 @@
 			}
 			"Z6"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
 				"Y9"		"f1111111111111111"
@@ -129,7 +146,9 @@
 			}
 			"Z7"
 			{
-				"Y12"		"f0000000000000000"
+				"Y14"		"f0000000000000000"
+				"Y13"		"f1111111111111110"
+				"Y12"		"f1111111111111110"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
 				"Y9"		"f1111111111111111"
@@ -145,6 +164,8 @@
 			}
 			"Z8"
 			{
+				"Y14"		"f0000000000000000"
+				"Y13"		"f0000000000000000"
 				"Y12"		"f0000000000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -164,6 +185,8 @@
 		{
 			"Z0"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000001"
 				"Y10"		"f0000000000000000"
@@ -180,7 +203,9 @@
 			}
 			"Z1"
 			{
-				"Y12"		"f1111111111111111"
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111100111"
+				"Y12"		"f1111111111001111"
 				"Y11"		"f0011100000000000"
 				"Y10"		"f0000000000000000"
 				"Y9"		"f0000000000000000"
@@ -196,6 +221,8 @@
 			}
 			"Z2"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -212,6 +239,8 @@
 			}
 			"Z3"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -228,6 +257,8 @@
 			}
 			"Z4"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -244,6 +275,8 @@
 			}
 			"Z5"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -260,6 +293,8 @@
 			}
 			"Z6"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -276,6 +311,8 @@
 			}
 			"Z7"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -292,6 +329,8 @@
 			}
 			"Z8"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -311,6 +350,8 @@
 		{
 			"Z0"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f0000000000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -327,6 +368,8 @@
 			}
 			"Z1"
 			{
+				"Y14"		"f1111111111001111"
+				"Y13"		"f1111111111001111"
 				"Y12"		"f0000000000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -343,6 +386,8 @@
 			}
 			"Z2"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f0000110000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -359,6 +404,8 @@
 			}
 			"Z3"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f0000110000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -375,6 +422,8 @@
 			}
 			"Z4"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f0000111000000000"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -391,6 +440,8 @@
 			}
 			"Z5"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -403,10 +454,12 @@
 				"Y3"		"f1111111111111111"
 				"Y2"		"f1111111111111111"
 				"Y1"		"f1111111111111100"
-				"Y0"		"f1111111111111110"
+				"Y0"		"f1111111111111100"
 			}
 			"Z6"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -423,6 +476,8 @@
 			}
 			"Z7"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -439,6 +494,8 @@
 			}
 			"Z8"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -458,6 +515,8 @@
 		{
 			"Z0"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -474,7 +533,9 @@
 			}
 			"Z1"
 			{
-				"Y12"		"f1111111111111111"
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111001111"
+				"Y12"		"f1111111111011111"
 				"Y11"		"f0000000000000001"
 				"Y10"		"f0000000000000000"
 				"Y9"		"f0000000000000000"
@@ -483,14 +544,16 @@
 				"Y6"		"f0000000000100000"
 				"Y5"		"f0000000000000000"
 				"Y4"		"f0000000000000000"
-				"Y3"		"f0000000000000000"
+				"Y3"		"f0010000000000000"
 				"Y2"		"f0000000000000001"
 				"Y1"		"f0000000000000001"
 				"Y0"		"f0000000000000001"
 			}
 			"Z2"
 			{
-				"Y12"		"f1111111111111111"
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111001111"
+				"Y12"		"f1111111111011111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
 				"Y9"		"f0000000000000000"
@@ -506,6 +569,8 @@
 			}
 			"Z3"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -522,6 +587,8 @@
 			}
 			"Z4"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0111000000000000"
@@ -538,6 +605,8 @@
 			}
 			"Z5"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f0000000000000000"
 				"Y10"		"f0000000000000000"
@@ -554,6 +623,8 @@
 			}
 			"Z6"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -570,6 +641,8 @@
 			}
 			"Z7"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -586,6 +659,8 @@
 			}
 			"Z8"
 			{
+				"Y14"		"f1111111111111111"
+				"Y13"		"f1111111111111111"
 				"Y12"		"f1111111111111111"
 				"Y11"		"f1111111111111111"
 				"Y10"		"f1111111111111111"
@@ -853,7 +928,7 @@
 			"Angles"		"0 90 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"2"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
@@ -1002,9 +1077,9 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_TIMER_DELAY"		"4"
-			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"1"
 		}
 		"Item"
 		{
@@ -1090,7 +1165,7 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
@@ -1130,7 +1205,7 @@
 			"Index"		"40"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
-			"VoxelPos"		"1 5 4"
+			"VoxelPos"		"1 3 2"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
@@ -1146,7 +1221,7 @@
 			"Angles"		"0 -90 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"1"
 		}
 		"Item"
 		{
@@ -1210,23 +1285,11 @@
 		"Item"
 		{
 			"Index"		"47"
-			"Type"		"ITEM_PANEL_FLIP"
-			"Deletable"		"1"
-			"VoxelPos"		"2 3 1"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"48"
 			"Type"		"ITEM_BUTTON_PEDESTAL"
 			"Deletable"		"1"
-			"VoxelPos"		"7 6 1"
+			"VoxelPos"		"7 8 2"
 			"LocalPos"		"0 0 0"
-			"Angles"		"-90 0 0"
+			"Angles"		"0 -90 90"
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
@@ -1234,7 +1297,7 @@
 		}
 		"Item"
 		{
-			"Index"		"49"
+			"Index"		"48"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"7 8 0"
@@ -1246,11 +1309,11 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"50"
+			"Index"		"49"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"7 9 0"
@@ -1262,11 +1325,11 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"51"
+			"Index"		"50"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"7 11 1"
@@ -1282,7 +1345,7 @@
 		}
 		"Item"
 		{
-			"Index"		"52"
+			"Index"		"51"
 			"Type"		"ITEM_BUTTON_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 11 1"
@@ -1295,7 +1358,7 @@
 		}
 		"Item"
 		{
-			"Index"		"53"
+			"Index"		"52"
 			"Type"		"ITEM_PANEL_FLIP"
 			"Deletable"		"1"
 			"VoxelPos"		"1 3 4"
@@ -1307,7 +1370,7 @@
 		}
 		"Item"
 		{
-			"Index"		"54"
+			"Index"		"53"
 			"Type"		"ITEM_PANEL_FLIP"
 			"Deletable"		"1"
 			"VoxelPos"		"9 11 1"
@@ -1319,7 +1382,7 @@
 		}
 		"Item"
 		{
-			"Index"		"55"
+			"Index"		"54"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"5 1 0"
@@ -1331,11 +1394,11 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"56"
+			"Index"		"55"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"5 0 0"
@@ -1347,14 +1410,14 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"57"
+			"Index"		"56"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
-			"VoxelPos"		"7 0 0"
+			"VoxelPos"		"7 1 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
@@ -1363,19 +1426,19 @@
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"58"
+			"Index"		"57"
 			"Type"		"ITEM_PISTON_PLATFORM"
 			"Deletable"		"1"
 			"VoxelPos"		"8 5 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 180"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"3"
 			"ITEM_PROPERTY_PISTON_LIFT_BOTTOM_LEVEL"		"0"
-			"ITEM_PROPERTY_PISTON_LIFT_TOP_LEVEL"		"2"
+			"ITEM_PROPERTY_PISTON_LIFT_TOP_LEVEL"		"1"
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"0"
 			"Facing"		"0 0 0"
@@ -1383,7 +1446,7 @@
 		}
 		"Item"
 		{
-			"Index"		"59"
+			"Index"		"58"
 			"Type"		"ITEM_PISTON_PLATFORM_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"8 5 4"
@@ -1395,10 +1458,10 @@
 		}
 		"Item"
 		{
-			"Index"		"60"
+			"Index"		"59"
 			"Type"		"ITEM_PISTON_PLATFORM_EXTENT"
 			"Deletable"		"0"
-			"VoxelPos"		"8 5 3"
+			"VoxelPos"		"8 5 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 180"
 			"Facing"		"0 0 0"
@@ -1407,11 +1470,11 @@
 		}
 		"Item"
 		{
-			"Index"		"61"
+			"Index"		"60"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"14 0 7"
-			"LocalPos"		"0 0 0"
+			"LocalPos"		"0 0 0.5"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CUBE_TYPE"		"1"
 			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
@@ -1422,7 +1485,7 @@
 		}
 		"Item"
 		{
-			"Index"		"62"
+			"Index"		"61"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"14 0 7"
@@ -1439,13 +1502,13 @@
 		}
 		"Item"
 		{
-			"Index"		"63"
+			"Index"		"62"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"14 0 5"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
 			"ITEM_PROPERTY_START_DEPLOYED"		"1"
 			"ITEM_PROPERTY_PORTALABLE"		"0"
@@ -1455,15 +1518,189 @@
 		}
 		"Item"
 		{
-			"Index"		"64"
+			"Index"		"63"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"14 0 6"
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
 			"ITEM_PROPERTY_START_DEPLOYED"		"1"
+			"ITEM_PROPERTY_PORTALABLE"		"0"
+			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"64"
+			"Type"		"ITEM_PANEL_ANGLED"
+			"Deletable"		"1"
+			"VoxelPos"		"10 12 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 90 -90"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
+			"ITEM_PROPERTY_START_DEPLOYED"		"1"
+			"ITEM_PROPERTY_PORTALABLE"		"0"
+			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"65"
+			"Type"		"ITEM_LASER_EMITTER_CENTER"
+			"Deletable"		"1"
+			"VoxelPos"		"9 8 4"
+			"LocalPos"		"0 0 0"
+			"Angles"		"90 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"66"
+			"Type"		"ITEM_PANEL_FLIP"
+			"Deletable"		"1"
+			"VoxelPos"		"10 8 4"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 -90 90"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"67"
+			"Type"		"ITEM_PANEL_FLIP"
+			"Deletable"		"1"
+			"VoxelPos"		"10 13 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 90 90"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"68"
+			"Type"		"ITEM_LASER_CATCHER_CENTER"
+			"Deletable"		"1"
+			"VoxelPos"		"11 13 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 0 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"69"
+			"Type"		"ITEM_LIGHT_BRIDGE"
+			"Deletable"		"1"
+			"VoxelPos"		"14 0 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"70"
+			"Type"		"ITEM_BUTTON_PEDESTAL"
+			"Deletable"		"1"
+			"VoxelPos"		"6 0 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_TIMER_DELAY"		"10"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"71"
+			"Type"		"ITEM_BARRIER_HAZARD"
+			"Deletable"		"1"
+			"VoxelPos"		"8 9 3"
+			"LocalPos"		"-0 -0 0.375"
+			"Angles"		"90 90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"72"
+			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"8 9 3"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 180 180"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"73"
+			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"8 9 3"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 180"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"74"
+			"Type"		"ITEM_PANEL_CLEAR"
+			"Deletable"		"1"
+			"VoxelPos"		"4 5 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"90 -90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
+			"ITEM_PROPERTY_START_DEPLOYED"		"0"
+			"ITEM_PROPERTY_PORTALABLE"		"0"
+			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"75"
+			"Type"		"ITEM_PANEL_CLEAR"
+			"Deletable"		"1"
+			"VoxelPos"		"5 5 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"90 -90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
+			"ITEM_PROPERTY_START_DEPLOYED"		"0"
+			"ITEM_PROPERTY_PORTALABLE"		"0"
+			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"76"
+			"Type"		"ITEM_PANEL_CLEAR"
+			"Deletable"		"1"
+			"VoxelPos"		"2 4 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"90 90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_ANGLED_PANEL_TYPE"		"0"
+			"ITEM_PROPERTY_START_DEPLOYED"		"0"
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
@@ -1582,38 +1819,38 @@
 		}
 		"Connection"
 		{
-			"Sender"		"48"
-			"Receiver"		"51"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"48"
+			"Sender"		"47"
 			"Receiver"		"50"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"48"
+			"Sender"		"47"
 			"Receiver"		"49"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"41"
-			"Receiver"		"47"
+			"Sender"		"47"
+			"Receiver"		"48"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"45"
-			"Receiver"		"54"
+			"Receiver"		"53"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"52"
+			"Sender"		"51"
 			"Receiver"		"15"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"35"
+			"Receiver"		"54"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
@@ -1630,45 +1867,117 @@
 		}
 		"Connection"
 		{
-			"Sender"		"35"
-			"Receiver"		"57"
-			"Type"		"CONNECTION_STANDARD"
+			"Sender"		"57"
+			"Receiver"		"58"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"58"
+			"Sender"		"57"
 			"Receiver"		"59"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"58"
-			"Receiver"		"60"
+			"Sender"		"21"
+			"Receiver"		"57"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"60"
+			"Receiver"		"61"
+			"Type"		"CONNECTION_BOX_DROPPER"
+		}
+		"Connection"
+		{
+			"Sender"		"29"
+			"Receiver"		"64"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"68"
+			"Receiver"		"63"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"29"
+			"Receiver"		"65"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"68"
+			"Receiver"		"62"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"70"
+			"Receiver"		"69"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"71"
+			"Receiver"		"72"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"21"
-			"Receiver"		"58"
+			"Sender"		"71"
+			"Receiver"		"73"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"41"
+			"Receiver"		"66"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"41"
+			"Receiver"		"52"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"30"
-			"Receiver"		"53"
+			"Receiver"		"57"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"22"
+			"Sender"		"51"
 			"Receiver"		"20"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"61"
-			"Receiver"		"62"
-			"Type"		"CONNECTION_BOX_DROPPER"
+			"Sender"		"22"
+			"Receiver"		"57"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"35"
+			"Receiver"		"75"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"35"
+			"Receiver"		"74"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"35"
+			"Receiver"		"76"
+			"Type"		"CONNECTION_STANDARD"
 		}
 	}
 }

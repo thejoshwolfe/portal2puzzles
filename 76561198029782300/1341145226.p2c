@@ -4,8 +4,9 @@
 	"Version"		"14"
 	"FileID"		"0x0000000004BE6D1F"
 	"Timestamp_Created"		"0x000000004FF0408A"
-	"Timestamp_Modified"		"0x000000004FF0409D"
-	"CompileTime"		"46.331001"
+	"Timestamp_Modified"		"0x00000000540B91A8"
+	"CompileTime"		"44.264999"
+	"Coop"		"0"
 	"Title"		"4 cubes"
 	"Description"		"puzzle"
 	"PreviewDirty"		"0"
@@ -611,8 +612,11 @@
 			"VoxelPos"		"8 0 1"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"5.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -624,8 +628,11 @@
 			"Angles"		"-90 90 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"4"
 			"ITEM_PROPERTY_START_OPEN"		"0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"0.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -636,6 +643,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -649,6 +657,7 @@
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -659,6 +668,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -669,6 +679,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -683,6 +694,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -699,6 +711,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -714,6 +727,7 @@
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -724,6 +738,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -735,6 +750,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -751,6 +767,7 @@
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -761,6 +778,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -772,6 +790,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -784,6 +803,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -795,6 +815,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -806,6 +827,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -820,6 +842,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -836,6 +859,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -846,6 +870,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -856,6 +881,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -867,6 +893,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -877,6 +904,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -890,6 +918,7 @@
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -900,6 +929,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -910,6 +940,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -920,6 +951,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -934,6 +966,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -950,6 +983,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -964,6 +998,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -980,6 +1015,7 @@
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -992,6 +1028,7 @@
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1003,6 +1040,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1014,6 +1052,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1025,6 +1064,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1036,6 +1076,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1049,6 +1090,7 @@
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1059,6 +1101,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1069,6 +1112,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1083,6 +1127,7 @@
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_START_REVERSED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1094,6 +1139,7 @@
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1106,6 +1152,7 @@
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1117,6 +1164,7 @@
 			"Angles"		"-90 -90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1127,6 +1175,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1137,6 +1186,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1147,6 +1197,7 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1159,6 +1210,7 @@
 			"ITEM_PROPERTY_TIMER_DELAY"		"10"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1170,6 +1222,7 @@
 			"Angles"		"0 -90 -90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1182,6 +1235,7 @@
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1191,10 +1245,10 @@
 			"VoxelPos"		"0 0 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 		"Item"
@@ -1206,9 +1260,11 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
+			"ITEM_PROPERTY_COOP_EXIT_STARTS_LOCKED"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 	}

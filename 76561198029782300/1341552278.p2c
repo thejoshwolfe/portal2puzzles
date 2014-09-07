@@ -4,8 +4,9 @@
 	"Version"		"14"
 	"FileID"		"0x0000000004CB2FF5"
 	"Timestamp_Created"		"0x000000004FF67696"
-	"Timestamp_Modified"		"0x000000004FF6AD43"
-	"CompileTime"		"419.643005"
+	"Timestamp_Modified"		"0x00000000540B98F7"
+	"CompileTime"		"693.320984"
+	"Coop"		"0"
 	"Title"		"parkour"
 	"Description"		"medium difficulty puzzle & exploration.
 
@@ -3053,8 +3054,11 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"VoxelPos"		"2 0 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"0.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -3066,8 +3070,11 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"-90 180 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_OPEN"		"0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"2.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -3078,6 +3085,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3092,6 +3100,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3108,6 +3117,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3120,6 +3130,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3131,6 +3142,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3141,6 +3153,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3151,6 +3164,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3161,6 +3175,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3171,6 +3186,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3181,6 +3197,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3191,6 +3208,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3201,6 +3219,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3211,6 +3230,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3221,6 +3241,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3231,6 +3252,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3241,6 +3263,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3255,6 +3278,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3271,6 +3295,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3281,6 +3306,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3293,6 +3319,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3304,6 +3331,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3318,6 +3346,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3334,6 +3363,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3344,6 +3374,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3356,6 +3387,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3368,6 +3400,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3380,6 +3413,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3390,6 +3424,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3400,6 +3435,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3410,6 +3446,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3420,6 +3457,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3435,6 +3473,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3450,6 +3489,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3462,6 +3502,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"9"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3477,6 +3518,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3491,6 +3533,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3507,6 +3550,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3518,6 +3562,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 -90 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3533,6 +3578,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3545,6 +3591,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3557,6 +3604,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"9"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3568,6 +3616,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 -90 90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3580,6 +3629,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3591,6 +3641,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 -90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3601,6 +3652,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3611,6 +3663,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3621,6 +3674,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3631,6 +3685,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3641,6 +3696,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3652,6 +3708,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"Angles"		"0 180 -90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3662,6 +3719,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3672,6 +3730,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3682,6 +3741,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3692,6 +3752,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3702,6 +3763,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3712,6 +3774,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3722,6 +3785,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3732,6 +3796,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3742,6 +3807,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3752,6 +3818,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 -0.375 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3762,6 +3829,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 -0.375 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3772,6 +3840,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3782,6 +3851,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3797,6 +3867,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3812,6 +3883,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3822,6 +3894,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -3833,6 +3906,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -3849,6 +3923,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3859,6 +3934,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -3870,6 +3946,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -3881,6 +3958,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 180"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3891,6 +3969,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0 0.375"
 			"Angles"		"90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3901,6 +3980,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0 0.375"
 			"Angles"		"90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3911,6 +3991,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0 0.375"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3921,6 +4002,7 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"-0 -0 0.375"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -3930,10 +4012,10 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"VoxelPos"		"0 0 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 		"Item"
@@ -3945,9 +4027,11 @@ fun fact: this test chamber takes over 5 minutes to build on my laptop."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
+			"ITEM_PROPERTY_COOP_EXIT_STARTS_LOCKED"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 	}

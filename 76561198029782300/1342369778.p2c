@@ -4,8 +4,9 @@
 	"Version"		"14"
 	"FileID"		"0x0000000004EA85B7"
 	"Timestamp_Created"		"0x000000005002EFF2"
-	"Timestamp_Modified"		"0x000000005002F008"
-	"CompileTime"		"59.277004"
+	"Timestamp_Modified"		"0x00000000540B93E1"
+	"CompileTime"		"58.035000"
+	"Coop"		"0"
 	"Title"		"laser switch"
 	"Description"		"medium difficulty puzzle.
 
@@ -609,8 +610,11 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"VoxelPos"		"8 0 5"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"0.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -622,8 +626,11 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"-90 180 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"DoorInstanceID"		"2.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -634,6 +641,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -644,6 +652,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -656,6 +665,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -668,6 +678,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -680,6 +691,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -690,6 +702,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -705,6 +718,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_30_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -720,6 +734,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_30_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -734,6 +749,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -750,6 +766,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -761,6 +778,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -771,6 +789,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -781,6 +800,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -791,6 +811,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -802,6 +823,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -812,6 +834,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -822,6 +845,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -832,6 +856,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -843,6 +868,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -853,6 +879,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -863,6 +890,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -873,6 +901,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -884,6 +913,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -894,6 +924,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -904,6 +935,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -914,6 +946,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -925,6 +958,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -935,6 +969,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -945,6 +980,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -955,6 +991,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -966,6 +1003,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -976,6 +1014,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -986,6 +1025,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -996,6 +1036,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1011,6 +1052,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1026,6 +1068,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1037,6 +1080,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1048,6 +1092,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1059,6 +1104,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1069,6 +1115,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1079,6 +1126,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1089,6 +1137,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1103,6 +1152,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1119,6 +1169,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1130,6 +1181,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1140,6 +1192,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1155,6 +1208,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1165,6 +1219,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1176,6 +1231,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1188,6 +1244,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1200,6 +1257,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1212,6 +1270,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1224,6 +1283,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1236,6 +1296,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1248,6 +1309,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1263,6 +1325,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1273,6 +1336,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1284,6 +1348,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1300,6 +1365,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1310,6 +1376,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1321,6 +1388,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1337,6 +1405,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1347,6 +1416,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1358,6 +1428,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1374,6 +1445,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1384,6 +1456,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1395,6 +1468,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1411,6 +1485,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1421,6 +1496,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1432,6 +1508,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1443,6 +1520,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1453,6 +1531,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1463,6 +1542,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1473,6 +1553,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1484,6 +1565,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1497,6 +1579,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TARGET_NAME"		"0"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"CatapultHeight"		"3.712608"
 		}
 		"Item"
@@ -1509,6 +1592,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1521,6 +1605,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1536,6 +1621,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1551,6 +1637,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1566,6 +1653,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1581,6 +1669,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"1"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_90_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1594,6 +1683,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TARGET_NAME"		"0"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"CatapultHeight"		"1.847541"
 		}
 		"Item"
@@ -1606,6 +1696,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 -90 90"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1619,6 +1710,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TARGET_NAME"		"0"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"CatapultHeight"		"4.165320"
 		}
 		"Item"
@@ -1631,6 +1723,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 180 0"
 			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1641,6 +1734,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1653,6 +1747,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1665,6 +1760,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1675,6 +1771,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1682,11 +1779,12 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Type"		"ITEM_LIGHT_BRIDGE"
 			"Deletable"		"1"
 			"VoxelPos"		"4 0 1"
-			"LocalPos"		"-0.375 1.63918e-008 0"
+			"LocalPos"		"-0.375 1.63918e-08 0"
 			"Angles"		"0 0 -90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1702,6 +1800,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PORTALABLE"		"0"
 			"ITEM_PROPERTY_ANGLED_PANEL_ANIMATION"		"ramp_45_deg_open"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1709,11 +1808,12 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Type"		"ITEM_LIGHT_BRIDGE"
 			"Deletable"		"1"
 			"VoxelPos"		"4 1 3"
-			"LocalPos"		"0.375 -4.91753e-008 0"
+			"LocalPos"		"0.375 -4.91753e-08 0"
 			"Angles"		"0 180 -90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1726,6 +1826,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1741,6 +1842,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1751,6 +1853,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1762,6 +1865,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1777,6 +1881,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1793,6 +1898,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1808,6 +1914,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1818,6 +1925,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1829,6 +1937,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1840,6 +1949,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1850,6 +1960,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1860,6 +1971,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1870,6 +1982,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1880,6 +1993,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1890,6 +2004,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1900,6 +2015,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1910,6 +2026,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1921,6 +2038,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 -90 90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1933,6 +2051,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1947,6 +2066,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"ITEM_PROPERTY_START_REVERSED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1958,6 +2078,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1969,6 +2090,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"Angles"		"-90 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1981,6 +2103,7 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1990,10 +2113,10 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"VoxelPos"		"0 0 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 		"Item"
@@ -2005,9 +2128,11 @@ there's a ~5% chance you don't get the first cube at the beginning due to nondet
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
+			"ITEM_PROPERTY_COOP_EXIT_STARTS_LOCKED"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 	}

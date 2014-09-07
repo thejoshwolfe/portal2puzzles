@@ -4,8 +4,9 @@
 	"Version"		"14"
 	"FileID"		"0x0000000004471395"
 	"Timestamp_Created"		"0x000000004FAF8749"
-	"Timestamp_Modified"		"0x000000004FB05C6E"
-	"CompileTime"		"52.771004"
+	"Timestamp_Modified"		"0x00000000540B953D"
+	"CompileTime"		"45.316002"
+	"Coop"		"0"
 	"Title"		"Throw The Bawks (v2)"
 	"Description"		"Your poor Companion Cube(s) will be destroyed many times until you learn to Throw The Bawks!
 
@@ -513,7 +514,11 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"VoxelPos"		"1 5 1"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"4.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -525,7 +530,11 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"-90 -90 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_OPEN"		"0"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"3.000000"
+			"Enabled"		"1"
 		}
 		"Item"
 		{
@@ -536,6 +545,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -550,6 +560,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -566,6 +577,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -579,6 +591,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -589,6 +602,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -599,6 +613,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -612,6 +627,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -622,6 +638,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -632,6 +649,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -643,6 +661,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 180 -90"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -653,6 +672,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -663,6 +683,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -673,6 +694,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -683,6 +705,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 0.125 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -693,6 +716,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 0.125 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -704,6 +728,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 -90"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -714,6 +739,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -724,6 +750,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -734,6 +761,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -750,6 +778,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -767,6 +796,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -783,6 +813,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -800,6 +831,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -816,6 +848,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -833,6 +866,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -849,6 +883,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -866,6 +901,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -882,6 +918,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -899,6 +936,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -912,6 +950,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -922,6 +961,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -932,6 +972,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -945,6 +986,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -955,6 +997,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -965,6 +1008,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -978,6 +1022,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -988,6 +1033,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -998,6 +1044,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1008,6 +1055,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1024,6 +1072,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1041,6 +1090,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1054,6 +1104,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1064,6 +1115,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1074,6 +1126,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1085,6 +1138,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 180 -90"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1095,6 +1149,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1105,6 +1160,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1115,6 +1171,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1128,6 +1185,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1138,6 +1196,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1148,6 +1207,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1159,6 +1219,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1171,6 +1232,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1185,6 +1247,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1201,6 +1264,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1213,6 +1277,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1224,6 +1289,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1237,6 +1303,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1247,6 +1314,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1257,6 +1325,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1271,6 +1340,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1287,6 +1357,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1299,6 +1370,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1314,6 +1386,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1324,6 +1397,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1335,6 +1409,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1346,6 +1421,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1356,6 +1432,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1369,6 +1446,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1379,6 +1457,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1389,6 +1468,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1400,6 +1480,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1414,6 +1495,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1430,6 +1512,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1442,6 +1525,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1455,6 +1539,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1465,6 +1550,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1475,6 +1561,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1486,6 +1573,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 90 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1496,6 +1584,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1506,6 +1595,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1516,6 +1606,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1527,6 +1618,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 90 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1537,6 +1629,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1547,6 +1640,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1557,6 +1651,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1567,6 +1662,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1577,6 +1673,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1587,6 +1684,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0.125 -0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1597,6 +1695,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1607,6 +1706,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1622,6 +1722,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1632,6 +1733,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1643,6 +1745,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1659,6 +1762,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1669,6 +1773,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1680,6 +1785,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1696,6 +1802,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1706,6 +1813,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1717,6 +1825,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1729,6 +1838,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1741,6 +1851,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1756,6 +1867,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_PISTON_LIFT_START_UP"		"0"
 			"ITEM_PROPERTY_PISTON_ALLOW_AUTO_TRIGGER"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1766,6 +1878,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"0"
 		}
 		"Item"
@@ -1777,6 +1890,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 			"EndHandle"		"1"
 		}
 		"Item"
@@ -1791,6 +1905,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1801,6 +1916,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1811,6 +1927,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1825,6 +1942,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1841,6 +1959,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"0"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1853,6 +1972,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
 			"ITEM_PROPERTY_TIMER_SOUND"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1864,6 +1984,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1874,6 +1995,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1885,6 +2007,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 -90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1895,6 +2018,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1905,6 +2029,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1915,6 +2040,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1925,6 +2051,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1935,6 +2062,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0.375 0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1945,6 +2073,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1955,6 +2084,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1965,6 +2095,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1978,6 +2109,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1988,6 +2120,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -1998,6 +2131,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2008,8 +2142,9 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
-			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2020,8 +2155,9 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
-			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2032,8 +2168,9 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_TIMER_DELAY"		"3"
-			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2050,6 +2187,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2067,6 +2205,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2080,6 +2219,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2090,6 +2230,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2100,6 +2241,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2111,6 +2253,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 -90 0"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2121,6 +2264,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2131,6 +2275,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2141,6 +2286,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2157,6 +2303,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2174,6 +2321,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2190,6 +2338,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2207,6 +2356,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2223,6 +2373,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2240,6 +2391,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2256,6 +2408,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2273,6 +2426,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2289,6 +2443,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2306,6 +2461,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2322,6 +2478,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2339,6 +2496,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2349,6 +2507,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2359,6 +2518,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2369,6 +2529,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2379,6 +2540,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0 -0 -0.375"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2389,6 +2551,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"-0.375 -0 -0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2400,6 +2563,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"Angles"		"0 -90 180"
 			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2410,6 +2574,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2420,6 +2585,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2430,6 +2596,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 -90"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2446,6 +2613,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2463,6 +2631,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2476,6 +2645,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2486,6 +2656,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2496,6 +2667,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2509,6 +2681,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2519,6 +2692,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 180 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2529,6 +2703,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 0 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2542,6 +2717,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_BARRIER_HAZARD_TYPE"		"0"
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2552,6 +2728,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"90 90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2562,6 +2739,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2578,6 +2756,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2595,6 +2774,7 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"ITEM_PROPERTY_START_ENABLED"		"1"
 			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
 			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
 		}
 		"Item"
 		{
@@ -2604,10 +2784,10 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"VoxelPos"		"0 0 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 		"Item"
@@ -2619,9 +2799,11 @@ edit: speed gel challenge is harder. final challenge has bigger landing zone."
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_START_OPEN"		"1"
+			"ITEM_PROPERTY_DOOR_IS_COOP"		"0"
+			"ITEM_PROPERTY_COOP_EXIT_STARTS_LOCKED"		"0"
 			"Facing"		"0 0 0"
-			"DoorInstanceID"		"0"
+			"ConnectionVisiblity"		"0"
+			"DoorInstanceID"		"0.000000"
 			"Enabled"		"0"
 		}
 	}

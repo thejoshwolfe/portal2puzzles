@@ -2,11 +2,15 @@
 {
 	"AppID"		"644"
 	"Version"		"14"
-	"FileID"		"0x0000000000000000"
-	"Timestamp_Created"		"0x0000000054138E06"
-	"Timestamp_Modified"		"0x000000005413A9E5"
-	"CompileTime"		"40.914001"
+	"FileID"		"0x0000000012ABDD1C"
+	"Timestamp_Created"		"0x000000005413AA4A"
+	"Timestamp_Modified"		"0x000000005413AA50"
+	"CompileTime"		"46.631001"
 	"Coop"		"0"
+	"Title"		"The Pit"
+	"Description"		"inspired by a certain indie game we all know and love.
+
+this puzzle is easy, unless you're going for 100%."
 	"PreviewDirty"		"0"
 	"ChamberSize"		"16 16 10"
 	"Voxels"
